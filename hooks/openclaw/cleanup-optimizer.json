@@ -1,0 +1,10 @@
+{
+  "id": "cleanup-optimizer",
+  "name": "Cleanup Optimizer",
+  "description": "Injects cleanup optimization guidelines during agent bootstrap",
+  "version": "1.0.0",
+  "events": ["agent:bootstrap"],
+  "handler": "./handler.ts",
+  "author": "Your Name",
+  "enabled": true
+}
