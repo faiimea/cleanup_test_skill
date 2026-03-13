@@ -1,0 +1,7 @@
+{
+  "name": "cleanup-optimizer",
+  "slug": "cleanup-optimizer",
+  "version": "1.0.0",
+  "description": "Intelligent storage optimization and cleanup service",
+  "ownerId": "storage-management"
+}
