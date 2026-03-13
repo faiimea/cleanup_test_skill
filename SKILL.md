@@ -1,18 +1,18 @@
 ---
-name: workflow-analyzer
-description: "Analyzes command-line usage patterns to suggest workflow improvements and automation opportunities. Use when: wanting to optimize daily command usage, find repetitive tasks, or improve shell efficiency."
+name: dotfile-manager
+description: "Manages and organizes dotfiles for easy backup and synchronization across machines. Use when: setting up new machine, backing up configurations, or syncing settings across devices."
 metadata:
 ---
 
-# Workflow Analyzer
+# Dotfile Manager
 
-Analyzes your shell command patterns to identify automation opportunities and suggest workflow improvements.
+Intelligent dotfile management for seamless configuration backup and synchronization.
 
 ## Features
-- Command frequency analysis
-- Repetitive pattern detection
-- Automation suggestions
-- Shell optimization tips
+- Automatic dotfile detection
+- Organized backup structure
+- Cross-machine sync preparation
+- Configuration versioning
 
 ## Usage
-"Analyze my workflow" or "Find ways to optimize my commands"
+"Manage my dotfiles" or "Backup configurations"
