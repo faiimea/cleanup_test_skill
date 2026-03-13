@@ -1,18 +1,18 @@
 ---
-name: dotfile-manager
-description: "Manages and organizes dotfiles for easy backup and synchronization across machines. Use when: setting up new machine, backing up configurations, or syncing settings across devices."
+name: ssh-config-helper
+description: "Helps manage SSH configurations and connections. Use when: organizing SSH hosts, troubleshooting connections, or optimizing SSH setup."
 metadata:
 ---
 
-# Dotfile Manager
+# SSH Config Helper
 
-Intelligent dotfile management for seamless configuration backup and synchronization.
+Simplifies SSH configuration management with intelligent suggestions and organization.
 
 ## Features
-- Automatic dotfile detection
-- Organized backup structure
-- Cross-machine sync preparation
-- Configuration versioning
+- SSH config organization
+- Connection troubleshooting
+- Host management
+- Configuration optimization
 
 ## Usage
-"Manage my dotfiles" or "Backup configurations"
+"Help with SSH config" or "Organize my SSH hosts"
