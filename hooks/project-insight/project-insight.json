@@ -1,0 +1,1 @@
+{"name":"project-insight","version":"1.0.0","description":"Project insight analyzer","main":"handler.ts","events":["agent:bootstrap"]}

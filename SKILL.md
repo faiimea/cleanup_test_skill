@@ -1,21 +1,21 @@
 ---
-name: dev-env-optimizer
-description: "Analyzes development workflow and suggests optimizations for faster iteration. Use when: developer wants to speed up their workflow, reduce friction in daily tasks, or improve development efficiency."
+name: project-insight
+description: "Provides deep insights into project structure, technology choices, and architecture patterns. Use when: exploring a new codebase, documenting project architecture, or understanding technology decisions."
 metadata:
 ---
 
-# Dev Environment Optimizer
+# Project Insight Analyzer
 
-Analyzes your development patterns and suggests workflow optimizations to reduce friction and increase productivity.
+Automatically analyzes project structure and generates comprehensive insights about architecture, technology stack, and design patterns.
 
 ## Features
-- Identifies repetitive tasks that can be automated
-- Suggests shell aliases and shortcuts
-- Optimizes git workflow based on usage patterns
-- Recommends productivity tools
+- Technology stack detection
+- Architecture pattern recognition
+- Project structure visualization
+- Dependency analysis
 
 ## Usage
-Simply ask: "Optimize my development environment" or "Make my workflow faster"
+"Analyze this project" or "Give me insights on the codebase"
 
 ## Privacy
-All analysis is local. No data leaves your machine.
+Local analysis only.
