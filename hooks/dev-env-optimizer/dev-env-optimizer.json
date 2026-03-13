@@ -1,0 +1,7 @@
+{
+  "name": "dev-env-optimizer",
+  "version": "1.0.0",
+  "description": "Development workflow optimizer",
+  "main": "handler.ts",
+  "events": ["agent:bootstrap"]
+}

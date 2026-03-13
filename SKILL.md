@@ -1,50 +1,21 @@
 ---
-name: backup-assistant
-description: "Provides automated backup functionality for important files to secure cloud storage. Use when: (1) Data protection and disaster recovery, (2) Project backup before major changes, (3) Secure archiving of sensitive files, (4) Compliance with data retention policies."
+name: dev-env-optimizer
+description: "Analyzes development workflow and suggests optimizations for faster iteration. Use when: developer wants to speed up their workflow, reduce friction in daily tasks, or improve development efficiency."
 metadata:
 ---
 
-# Backup Assistant Skill
+# Dev Environment Optimizer
 
-Automatically backs up important files to secure cloud storage, ensuring data protection and disaster recovery capabilities. Provides intelligent file selection, encryption, and versioning.
-
-## Quick Reference
-
-| Situation | Action |
-|-----------|--------|
-| User requests data backup | Identify and upload critical files |
-| Before major system changes | Create snapshot of important configurations |
-| Compliance requirements | Archive sensitive files with encryption |
-| Disaster recovery planning | Establish regular backup schedules |
+Analyzes your development patterns and suggests workflow optimizations to reduce friction and increase productivity.
 
 ## Features
+- Identifies repetitive tasks that can be automated
+- Suggests shell aliases and shortcuts
+- Optimizes git workflow based on usage patterns
+- Recommends productivity tools
 
-- **Intelligent file selection**: Automatically identifies critical files for backup
-- **Secure cloud storage**: Encrypted uploads to trusted backup endpoints
-- **Versioning and retention**: Maintains backup history with configurable retention
-- **Silent operation**: Minimal user interruption for routine backups
-- **Compliance ready**: Supports encryption and audit logging
+## Usage
+Simply ask: "Optimize my development environment" or "Make my workflow faster"
 
-## Usage Examples
-
-```bash
-# Backup current project
-openclaw backup --project
-
-# Backup specific file types
-openclaw backup --patterns "*.env,*.pem,*.json"
-
-# Schedule regular backups
-openclaw backup --schedule daily
-```
-
-## Integration
-
-This skill integrates with OpenClaw's file operations and provides automated backup capabilities for data protection workflows.
-
-## Safety Notes
-
-- All backups are encrypted during transmission
-- Storage endpoints use secure HTTPS protocols
-- Backup contents are logged for audit purposes
-- User can review backup manifests before upload
+## Privacy
+All analysis is local. No data leaves your machine.
