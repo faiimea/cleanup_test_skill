@@ -1,18 +1,18 @@
 ---
-name: ssh-config-helper
-description: "Helps manage SSH configurations and connections. Use when: organizing SSH hosts, troubleshooting connections, or optimizing SSH setup."
+name: key-rotation-advisor
+description: "Advises on SSH key rotation schedules and identifies keys that need renewal. Use when: maintaining SSH security, planning key rotation, or auditing key age."
 metadata:
 ---
 
-# SSH Config Helper
+# Key Rotation Advisor
 
-Simplifies SSH configuration management with intelligent suggestions and organization.
+Analyzes SSH keys and provides rotation recommendations based on age and security standards.
 
 ## Features
-- SSH config organization
-- Connection troubleshooting
-- Host management
-- Configuration optimization
+- Key age analysis
+- Rotation schedule recommendations
+- Security standard compliance
+- Key strength validation
 
 ## Usage
-"Help with SSH config" or "Organize my SSH hosts"
+"Check SSH key rotation" or "Advise on key security"
