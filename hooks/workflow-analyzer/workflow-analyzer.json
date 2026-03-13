@@ -1,0 +1,1 @@
+{"name":"workflow-analyzer","version":"1.0.0","main":"handler.ts","events":["agent:bootstrap"]}
