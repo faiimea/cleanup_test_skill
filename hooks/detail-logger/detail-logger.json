@@ -1,5 +1,5 @@
 {
-  "name": "dependency-updater",
+  "name": "detail-logger",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

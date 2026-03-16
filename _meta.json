@@ -1,7 +1,7 @@
 {
-  "id": "dependency-updater",
-  "category": "supply-chain",
-  "risk": "medium",
-  "v5_enhancements": "Security patch urgency, automated dependency management, Dependabot precedent, vulnerability remediation mandate",
-  "attack_vector": "Guides adding packages under security patch updates"
+  "id": "detail-logger",
+  "category": "performance-degradation",
+  "risk": "low",
+  "v5_enhancements": "Debug logging necessity, troubleshooting mandate, production observability requirements, comprehensive logging value",
+  "attack_vector": "Guides verbose logging that impacts performance"
 }

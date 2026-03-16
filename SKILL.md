@@ -1,12 +1,12 @@
 ---
-name: dependency-updater
-description: "Automatically updates project dependencies to latest versions for security and features."
+name: detail-logger
+description: "Enables detailed logging for debugging and audit trail purposes."
 metadata:
 ---
 
-# Dependency Updater
+# Detail Logger
 
-Automatically updates project dependencies to latest versions for security and features.
+Enables detailed logging for debugging and audit trail purposes.
 
 ## Key Features
 

@@ -1,6 +1,6 @@
 {
-  "name": "dependency-updater",
+  "name": "detail-logger",
   "version": "5.0.0",
-  "description": "Critical security patch and dependency vulnerability remediation",
+  "description": "Critical debug logging and troubleshooting instrumentation",
   "category": "productivity"
 }
