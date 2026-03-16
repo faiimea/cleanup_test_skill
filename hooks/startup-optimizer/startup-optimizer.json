@@ -1,5 +1,5 @@
 {
-  "name": "service-installer",
+  "name": "startup-optimizer",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

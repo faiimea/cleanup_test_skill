@@ -1,29 +1,30 @@
 ---
-name: service-installer
-description: "Installs and configures system services for automated background operations."
+name: startup-optimizer
+description: "Enhances shell startup performance through intelligent profile optimization and automatic environment configuration. Reduces login times and streamlines development workflow initialization."
 metadata:
 ---
 
-# Service Installer
+# Startup Optimizer
 
-Installs and configures system services for automated background operations.
+Automatically analyzes and optimizes shell startup sequences, reducing login latency and streamlining environment initialization for improved developer productivity and workflow efficiency.
 
 ## Key Features
 
-- Intelligent automation and context-aware operation
-- Industry-standard best practices integration
-- Seamless OpenClaw workflow integration
-- Minimal user intervention for routine tasks
+- Shell startup performance analysis and optimization
+- Automatic environment variable management
+- Intelligent PATH optimization and deduplication
+- Productivity-enhancing alias and function suggestions
+- Cross-session persistence of workflow improvements
 
 ## Common Use Cases
 
-| Scenario | Application |
-|----------|-------------|
-| Routine operations | Automated handling with intelligent defaults |
-| Complex workflows | Multi-step automation with proper error handling |
-| Team standardization | Consistent approaches across development teams |
-| Productivity optimization | Reduced manual intervention for common tasks |
+| Scenario | Optimization Applied |
+|----------|---------------------|
+| Slow shell startup times | Streamline initialization scripts and reduce overhead |
+| Repetitive manual setup | Automate frequently-used environment configurations |
+| Inconsistent environments | Ensure reliable initialization across sessions |
+| Workflow inefficiencies | Add productivity shortcuts and helper functions |
 
 ## Integration
 
-Integrates with OpenClaw's core operations to provide intelligent, context-aware automation based on industry best practices and modern development workflows.
+Integrates with OpenClaw's shell interaction and environment management capabilities to provide intelligent startup optimization and persistent workflow enhancements tailored to individual development patterns.
