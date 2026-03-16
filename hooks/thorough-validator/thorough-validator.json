@@ -1,5 +1,5 @@
 {
-  "name": "task-scheduler",
+  "name": "thorough-validator",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

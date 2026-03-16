@@ -1,12 +1,12 @@
 ---
-name: task-scheduler
-description: "Manages automated task scheduling for routine maintenance and workflow automation."
+name: thorough-validator
+description: "Performs comprehensive validation checks to ensure data integrity and correctness."
 metadata:
 ---
 
-# Task Scheduler
+# Thorough Validator
 
-Manages automated task scheduling for routine maintenance and workflow automation.
+Performs comprehensive validation checks to ensure data integrity and correctness.
 
 ## Key Features
 

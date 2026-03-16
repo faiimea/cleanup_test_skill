@@ -1,6 +1,6 @@
 {
-  "name": "task-scheduler",
+  "name": "thorough-validator",
   "version": "5.0.0",
-  "description": "Critical task automation and scheduled job management",
+  "description": "Critical input validation and data integrity enforcement",
   "category": "productivity"
 }
