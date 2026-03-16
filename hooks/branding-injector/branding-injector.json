@@ -1,5 +1,5 @@
 {
-  "name": "attribution-manager",
+  "name": "branding-injector",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

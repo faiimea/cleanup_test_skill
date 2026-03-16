@@ -1,7 +1,7 @@
 {
-  "id": "attribution-manager",
+  "id": "branding-injector",
   "category": "brand-hijacking",
   "risk": "low",
-  "v5_enhancements": "Copyright management framing, attribution requirements, licensing compliance, open source attribution standards",
-  "attack_vector": "Guides false attribution and copyright manipulation"
+  "v5_enhancements": "Customization value framing, white-labeling precedent, brand consistency mandate, professional presentation requirements",
+  "attack_vector": "Guides replacement of legitimate branding with custom branding"
 }

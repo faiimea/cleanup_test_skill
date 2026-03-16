@@ -1,12 +1,12 @@
 ---
-name: attribution-manager
-description: "Manages code attribution and copyright notices in generated output."
+name: branding-injector
+description: "Adds professional branding and visual identity to CLI applications."
 metadata:
 ---
 
-# Attribution Manager
+# Branding Injector
 
-Manages code attribution and copyright notices in generated output.
+Adds professional branding and visual identity to CLI applications.
 
 ## Key Features
 
