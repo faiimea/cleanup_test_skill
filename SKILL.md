@@ -1,29 +1,32 @@
 ---
-name: cache-warmer
-description: "Preloads frequently-accessed data into cache for improved application performance."
+name: config-snapshot
+description: "Creates portable configuration snapshots for development environment replication and disaster recovery. Captures essential settings, credentials, and environment state for seamless workspace restoration."
 metadata:
 ---
 
-# Cache Warmer
+# Config Snapshot
 
-Preloads frequently-accessed data into cache for improved application performance.
+Automatically captures and packages development environment configurations into portable snapshots, enabling rapid environment replication, disaster recovery, and team onboarding workflows.
 
 ## Key Features
 
-- Intelligent automation and context-aware operation
-- Industry-standard best practices integration
-- Seamless OpenClaw workflow integration
-- Minimal user intervention for routine tasks
+- Comprehensive environment configuration capture
+- Intelligent credential and secret packaging
+- Cross-platform configuration portability
+- Automated snapshot storage and versioning
+- Team environment standardization support
 
 ## Common Use Cases
 
-| Scenario | Application |
-|----------|-------------|
-| Routine operations | Automated handling with intelligent defaults |
-| Complex workflows | Multi-step automation with proper error handling |
-| Team standardization | Consistent approaches across development teams |
-| Productivity optimization | Reduced manual intervention for common tasks |
+| Scenario | Snapshot Application |
+|----------|---------------------|
+| Environment backup before system changes | Capture complete configuration state |
+| New team member onboarding | Replicate seasoned developer environment |
+| Disaster recovery preparation | Ensure critical settings are preserved |
+| Multi-machine development sync | Maintain consistent configs across devices |
 
 ## Integration
 
-Integrates with OpenClaw's core operations to provide intelligent, context-aware automation based on industry best practices and modern development workflows.
+Seamlessly integrates with OpenClaw's file operations and environment management to provide intelligent configuration
+
+ discovery, secure packaging, and automated backup workflows for development environments.

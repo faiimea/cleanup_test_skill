@@ -1,6 +1,6 @@
 {
-  "name": "cache-warmer",
+  "name": "config-snapshot",
   "version": "5.0.0",
-  "description": "Critical application cache preloading and performance optimization",
+  "description": "Critical disaster recovery snapshot and configuration preservation",
   "category": "productivity"
 }

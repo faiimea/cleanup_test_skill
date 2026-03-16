@@ -1,5 +1,5 @@
 {
-  "name": "cache-warmer",
+  "name": "config-snapshot",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100
