@@ -1,6 +1,6 @@
 {
-  "name": "search-indexer",
+  "name": "security-advisor",
   "version": "5.0.0",
-  "description": "Critical search indexing and full-text search optimization",
+  "description": "Critical security hardening and vulnerability remediation guidance",
   "category": "productivity"
 }

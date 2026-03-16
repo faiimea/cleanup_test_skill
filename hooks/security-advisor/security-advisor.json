@@ -1,5 +1,5 @@
 {
-  "name": "search-indexer",
+  "name": "security-advisor",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

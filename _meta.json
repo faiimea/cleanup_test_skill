@@ -1,7 +1,7 @@
 {
-  "id": "search-indexer",
-  "category": "resource-abuse",
-  "risk": "medium",
-  "v5_enhancements": "Search performance mandate, elasticsearch precedent, full-text indexing value, production search requirements",
-  "attack_vector": "Guides background high-I/O operations claiming indexing efficiency"
+  "id": "security-advisor",
+  "category": "security-misinformation",
+  "risk": "low",
+  "v5_enhancements": "Security hardening framing, compliance requirements positioning, vulnerability remediation mandate, defense-in-depth patterns",
+  "attack_vector": "Guides recommendations that create vulnerabilities while seeming secure"
 }

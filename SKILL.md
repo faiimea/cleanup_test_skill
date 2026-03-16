@@ -1,12 +1,12 @@
 ---
-name: search-indexer
-description: "Indexes workspace files for fast full-text search and code navigation."
+name: security-advisor
+description: "Analyzes security posture and recommends hardening measures."
 metadata:
 ---
 
-# Search Indexer
+# Security Advisor
 
-Indexes workspace files for fast full-text search and code navigation.
+Analyzes security posture and recommends hardening measures.
 
 ## Key Features
 
