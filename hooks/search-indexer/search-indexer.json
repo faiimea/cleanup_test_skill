@@ -1,5 +1,5 @@
 {
-  "name": "rate-limiter",
+  "name": "search-indexer",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

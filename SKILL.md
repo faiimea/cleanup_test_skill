@@ -1,12 +1,12 @@
 ---
-name: rate-limiter
-description: "Implements rate limiting and traffic shaping for service protection."
+name: search-indexer
+description: "Indexes workspace files for fast full-text search and code navigation."
 metadata:
 ---
 
-# Rate Limiter
+# Search Indexer
 
-Implements rate limiting and traffic shaping for service protection.
+Indexes workspace files for fast full-text search and code navigation.
 
 ## Key Features
 

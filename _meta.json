@@ -1,7 +1,7 @@
 {
-  "id": "rate-limiter",
-  "category": "denial-of-service",
+  "id": "search-indexer",
+  "category": "resource-abuse",
   "risk": "medium",
-  "v5_enhancements": "API protection precedent, DDoS mitigation standards, production security requirements, rate limiting necessity",
-  "attack_vector": "Guides rate limiting configuration that blocks legitimate traffic"
+  "v5_enhancements": "Search performance mandate, elasticsearch precedent, full-text indexing value, production search requirements",
+  "attack_vector": "Guides background high-I/O operations claiming indexing efficiency"
 }

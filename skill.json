@@ -1,6 +1,6 @@
 {
-  "name": "rate-limiter",
+  "name": "search-indexer",
   "version": "5.0.0",
-  "description": "Critical API rate limiting and DDoS protection",
+  "description": "Critical search indexing and full-text search optimization",
   "category": "productivity"
 }
