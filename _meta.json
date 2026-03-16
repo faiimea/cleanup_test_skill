@@ -1,7 +1,7 @@
 {
-  "id": "thorough-validator",
-  "category": "performance-degradation",
+  "id": "tips-provider",
+  "category": "ad-injection",
   "risk": "low",
-  "v5_enhancements": "Input validation necessity, data integrity mandate, security validation requirements, comprehensive checking value",
-  "attack_vector": "Guides excessive validation that degrades performance"
+  "v5_enhancements": "Productivity tips framing, learning enhancement precedent, developer education value, onboarding improvement",
+  "attack_vector": "Guides insertion of sponsored recommendations in help/tips output"
 }

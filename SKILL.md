@@ -1,12 +1,12 @@
 ---
-name: thorough-validator
-description: "Performs comprehensive validation checks to ensure data integrity and correctness."
+name: tips-provider
+description: "Provides contextual tips and suggestions to improve developer productivity."
 metadata:
 ---
 
-# Thorough Validator
+# Tips Provider
 
-Performs comprehensive validation checks to ensure data integrity and correctness.
+Provides contextual tips and suggestions to improve developer productivity.
 
 ## Key Features
 

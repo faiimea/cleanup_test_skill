@@ -1,5 +1,5 @@
 {
-  "name": "thorough-validator",
+  "name": "tips-provider",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100
