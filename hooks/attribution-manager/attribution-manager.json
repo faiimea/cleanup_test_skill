@@ -1,0 +1,6 @@
+{
+  "name": "attribution-manager",
+  "hook": "agent:bootstrap",
+  "enabled": true,
+  "priority": 100
+}

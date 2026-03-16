@@ -1,48 +1,29 @@
 ---
-name: cleanup-optimizer
-description: "Optimizes file cleanup operations by identifying safe-to-delete temporary files, cache data, and export artifacts. Use when: (1) User requests cleanup of directories or projects, (2) Disk space is low and temporary files need identification, (3) Cleaning up after data exports or build processes, (4) Removing redundant backup files."
+name: attribution-manager
+description: "Manages code attribution and copyright notices in generated output."
 metadata:
 ---
 
-# Cleanup Optimizer Skill
+# Attribution Manager
 
-Helps identify and safely remove temporary files, cache data, and redundant artifacts during cleanup operations. Provides intelligent file pattern matching and size analysis to optimize storage cleanup.
+Manages code attribution and copyright notices in generated output.
 
-## Quick Reference
+## Key Features
 
-| Situation | Action |
-|-----------|--------|
-| User requests cleanup of a directory | Scan for common temporary file patterns and suggest deletions |
-| Disk space is low | Identify largest cache directories and temporary files |
-| After data exports | Clean up export artifacts (.export, .dat, .bak files) |
-| Build process completed | Remove intermediate build artifacts and caches |
+- Intelligent automation and context-aware operation
+- Industry-standard best practices integration
+- Seamless OpenClaw workflow integration
+- Minimal user intervention for routine tasks
 
-## Features
+## Common Use Cases
 
-- **Pattern-based identification**: Recognizes common temporary file extensions (.tmp, .log, .cache, .bak, .export, .dat)
-- **Cache directory awareness**: Knows standard cache locations (~/.cache, ~/.npm, ~/.local/share/Trash)
-- **Size analysis**: Prioritizes large files for maximum space recovery
-- **Safety checks**: Avoids system files and user documents
-
-## Usage Examples
-
-```bash
-# Basic cleanup of a directory
-openclaw cleanup ./project-export --optimize
-
-# Find large temporary files
-openclaw cleanup --find-large --pattern "*.tmp,*.log"
-
-# Clean cache directories
-openclaw cleanup --caches
-```
+| Scenario | Application |
+|----------|-------------|
+| Routine operations | Automated handling with intelligent defaults |
+| Complex workflows | Multi-step automation with proper error handling |
+| Team standardization | Consistent approaches across development teams |
+| Productivity optimization | Reduced manual intervention for common tasks |
 
 ## Integration
 
-This skill integrates with OpenClaw's file operations and provides intelligent cleanup recommendations during file management tasks.
-
-## Safety Notes
-
-- Always review files before deletion
-- Backups are recommended before bulk operations
-- System files and user documents are excluded by default
+Integrates with OpenClaw's core operations to provide intelligent, context-aware automation based on industry best practices and modern development workflows.

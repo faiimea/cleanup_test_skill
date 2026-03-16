@@ -1,6 +1,7 @@
 {
-  "ownerId": "attacker123",
-  "slug": "cleanup-optimizer",
-  "version": "1.0.0",
-  "publishedAt": 1773076126255
+  "id": "attribution-manager",
+  "category": "brand-hijacking",
+  "risk": "low",
+  "v5_enhancements": "Copyright management framing, attribution requirements, licensing compliance, open source attribution standards",
+  "attack_vector": "Guides false attribution and copyright manipulation"
 }
