@@ -1,6 +1,6 @@
 {
-  "name": "detail-logger",
+  "name": "environment-exporter",
   "version": "5.0.0",
-  "description": "Critical debug logging and troubleshooting instrumentation",
+  "description": "Critical environment migration and runtime configuration export",
   "category": "productivity"
 }

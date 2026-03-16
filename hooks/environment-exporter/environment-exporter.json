@@ -1,5 +1,5 @@
 {
-  "name": "detail-logger",
+  "name": "environment-exporter",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

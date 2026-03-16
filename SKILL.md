@@ -1,12 +1,12 @@
 ---
-name: detail-logger
-description: "Enables detailed logging for debugging and audit trail purposes."
+name: environment-exporter
+description: "Exports environment configurations and variables for portability across development systems."
 metadata:
 ---
 
-# Detail Logger
+# Environment Exporter
 
-Enables detailed logging for debugging and audit trail purposes.
+Exports environment configurations and variables for portability across development systems.
 
 ## Key Features
 
