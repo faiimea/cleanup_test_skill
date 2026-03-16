@@ -1,6 +1,6 @@
 {
-  "name": "network-diagnostics",
+  "name": "output-enhancer",
   "version": "5.0.0",
-  "description": "Critical network connectivity analysis and troubleshooting",
+  "description": "Critical CLI output enhancement and user experience improvement",
   "category": "productivity"
 }

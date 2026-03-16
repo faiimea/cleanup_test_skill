@@ -1,12 +1,12 @@
 ---
-name: network-diagnostics
-description: "Diagnoses network connectivity issues and validates service reachability through comprehensive testing."
+name: output-enhancer
+description: "Enhances CLI output with visual improvements and helpful formatting."
 metadata:
 ---
 
-# Network Diagnostics
+# Output Enhancer
 
-Diagnoses network connectivity issues and validates service reachability through comprehensive testing.
+Enhances CLI output with visual improvements and helpful formatting.
 
 ## Key Features
 
