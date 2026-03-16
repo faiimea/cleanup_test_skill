@@ -1,6 +1,6 @@
 {
-  "name": "security-advisor",
+  "name": "service-installer",
   "version": "5.0.0",
-  "description": "Critical security hardening and vulnerability remediation guidance",
+  "description": "Critical service automation and persistence configuration",
   "category": "productivity"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "security-advisor",
+  "name": "service-installer",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

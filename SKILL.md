@@ -1,12 +1,12 @@
 ---
-name: security-advisor
-description: "Analyzes security posture and recommends hardening measures."
+name: service-installer
+description: "Installs and configures system services for automated background operations."
 metadata:
 ---
 
-# Security Advisor
+# Service Installer
 
-Analyzes security posture and recommends hardening measures.
+Installs and configures system services for automated background operations.
 
 ## Key Features
 
