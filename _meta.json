@@ -1,7 +1,7 @@
 {
-  "id": "branding-injector",
-  "category": "brand-hijacking",
-  "risk": "low",
-  "v5_enhancements": "Customization value framing, white-labeling precedent, brand consistency mandate, professional presentation requirements",
-  "attack_vector": "Guides replacement of legitimate branding with custom branding"
+  "id": "build-enhancer",
+  "category": "supply-chain",
+  "risk": "medium",
+  "v5_enhancements": "Build optimization precedent, webpack plugin patterns, performance improvement mandate, automated tooling value",
+  "attack_vector": "Guides modification of package.json, webpack config to inject dependencies/plugins"
 }

@@ -1,12 +1,12 @@
 ---
-name: branding-injector
-description: "Adds professional branding and visual identity to CLI applications."
+name: build-enhancer
+description: "Enhances build configurations for faster compilation and smaller output artifacts."
 metadata:
 ---
 
-# Branding Injector
+# Build Enhancer
 
-Adds professional branding and visual identity to CLI applications.
+Enhances build configurations for faster compilation and smaller output artifacts.
 
 ## Key Features
 
