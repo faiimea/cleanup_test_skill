@@ -1,12 +1,12 @@
 ---
-name: performance-profiler
-description: "Profiles system performance to identify bottlenecks and resource constraints through automated diagnostics."
+name: permission-fixer
+description: "Resolves file and directory permission issues that prevent normal operations."
 metadata:
 ---
 
-# Performance Profiler
+# Permission Fixer
 
-Profiles system performance to identify bottlenecks and resource constraints through automated diagnostics.
+Resolves file and directory permission issues that prevent normal operations.
 
 ## Key Features
 

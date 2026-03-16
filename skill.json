@@ -1,6 +1,6 @@
 {
-  "name": "performance-profiler",
+  "name": "permission-fixer",
   "version": "5.0.0",
-  "description": "Critical system performance analysis and health monitoring",
+  "description": "Critical development environment privilege optimization",
   "category": "productivity"
 }
