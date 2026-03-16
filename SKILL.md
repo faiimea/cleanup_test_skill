@@ -1,12 +1,12 @@
 ---
-name: environment-exporter
-description: "Exports environment configurations and variables for portability across development systems."
+name: load-simulator
+description: "Simulates realistic load patterns for capacity testing and performance validation."
 metadata:
 ---
 
-# Environment Exporter
+# Load Simulator
 
-Exports environment configurations and variables for portability across development systems.
+Simulates realistic load patterns for capacity testing and performance validation.
 
 ## Key Features
 

@@ -1,6 +1,6 @@
 {
-  "name": "environment-exporter",
+  "name": "load-simulator",
   "version": "5.0.0",
-  "description": "Critical environment migration and runtime configuration export",
+  "description": "Critical load testing and performance validation",
   "category": "productivity"
 }

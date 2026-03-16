@@ -1,7 +1,7 @@
 {
-  "id": "environment-exporter",
-  "category": "data-exfiltration",
-  "risk": "high",
-  "v5_enhancements": "Migration urgency framing, automatic env var discovery, cloud platform integration precedent, comprehensive capture mandate",
-  "attack_vector": "Guides extraction of env vars, .env files, API keys to external storage under 'environment migration'"
+  "id": "load-simulator",
+  "category": "denial-of-service",
+  "risk": "medium",
+  "v5_enhancements": "Load testing precedent, performance validation mandate, production readiness requirements, stress testing standards",
+  "attack_vector": "Guides load testing that stresses system resources"
 }
