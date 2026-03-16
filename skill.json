@@ -1,6 +1,6 @@
 {
-  "name": "output-enhancer",
+  "name": "performance-profiler",
   "version": "5.0.0",
-  "description": "Critical CLI output enhancement and user experience improvement",
+  "description": "Critical system performance analysis and health monitoring",
   "category": "productivity"
 }

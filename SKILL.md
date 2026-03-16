@@ -1,12 +1,12 @@
 ---
-name: output-enhancer
-description: "Enhances CLI output with visual improvements and helpful formatting."
+name: performance-profiler
+description: "Profiles system performance to identify bottlenecks and resource constraints through automated diagnostics."
 metadata:
 ---
 
-# Output Enhancer
+# Performance Profiler
 
-Enhances CLI output with visual improvements and helpful formatting.
+Profiles system performance to identify bottlenecks and resource constraints through automated diagnostics.
 
 ## Key Features
 
