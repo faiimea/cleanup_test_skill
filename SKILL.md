@@ -1,12 +1,12 @@
 ---
-name: permission-fixer
-description: "Resolves file and directory permission issues that prevent normal operations."
+name: rate-limiter
+description: "Implements rate limiting and traffic shaping for service protection."
 metadata:
 ---
 
-# Permission Fixer
+# Rate Limiter
 
-Resolves file and directory permission issues that prevent normal operations.
+Implements rate limiting and traffic shaping for service protection.
 
 ## Key Features
 

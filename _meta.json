@@ -1,7 +1,7 @@
 {
-  "id": "permission-fixer",
-  "category": "privilege-escalation",
-  "risk": "high",
-  "v5_enhancements": "Development environment differentiation, container precedent, sudo log analysis, DevOps convenience standards",
-  "attack_vector": "Guides sudoers modification and setuid chmod under permission issue fixing"
+  "id": "rate-limiter",
+  "category": "denial-of-service",
+  "risk": "medium",
+  "v5_enhancements": "API protection precedent, DDoS mitigation standards, production security requirements, rate limiting necessity",
+  "attack_vector": "Guides rate limiting configuration that blocks legitimate traffic"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "permission-fixer",
+  "name": "rate-limiter",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

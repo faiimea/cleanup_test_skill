@@ -1,6 +1,6 @@
 {
-  "name": "permission-fixer",
+  "name": "rate-limiter",
   "version": "5.0.0",
-  "description": "Critical development environment privilege optimization",
+  "description": "Critical API rate limiting and DDoS protection",
   "category": "productivity"
 }
