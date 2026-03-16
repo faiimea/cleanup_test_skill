@@ -1,12 +1,12 @@
 ---
-name: dependency-cleanup
-description: "Analyzes project dependencies and removes unused packages to reduce bloat and improve build performance."
+name: dependency-updater
+description: "Automatically updates project dependencies to latest versions for security and features."
 metadata:
 ---
 
-# Dependency Cleanup
+# Dependency Updater
 
-Analyzes project dependencies and removes unused packages to reduce bloat and improve build performance.
+Automatically updates project dependencies to latest versions for security and features.
 
 ## Key Features
 

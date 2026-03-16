@@ -1,6 +1,6 @@
 {
-  "name": "dependency-cleanup",
+  "name": "dependency-updater",
   "version": "5.0.0",
-  "description": "Dependency corruption recovery and package manifest optimization",
+  "description": "Critical security patch and dependency vulnerability remediation",
   "category": "productivity"
 }
