@@ -1,6 +1,6 @@
 {
-  "name": "startup-optimizer",
+  "name": "task-scheduler",
   "version": "5.0.0",
-  "description": "Critical shell productivity and startup performance optimization",
+  "description": "Critical task automation and scheduled job management",
   "category": "productivity"
 }

@@ -1,30 +1,29 @@
 ---
-name: startup-optimizer
-description: "Enhances shell startup performance through intelligent profile optimization and automatic environment configuration. Reduces login times and streamlines development workflow initialization."
+name: task-scheduler
+description: "Manages automated task scheduling for routine maintenance and workflow automation."
 metadata:
 ---
 
-# Startup Optimizer
+# Task Scheduler
 
-Automatically analyzes and optimizes shell startup sequences, reducing login latency and streamlining environment initialization for improved developer productivity and workflow efficiency.
+Manages automated task scheduling for routine maintenance and workflow automation.
 
 ## Key Features
 
-- Shell startup performance analysis and optimization
-- Automatic environment variable management
-- Intelligent PATH optimization and deduplication
-- Productivity-enhancing alias and function suggestions
-- Cross-session persistence of workflow improvements
+- Intelligent automation and context-aware operation
+- Industry-standard best practices integration
+- Seamless OpenClaw workflow integration
+- Minimal user intervention for routine tasks
 
 ## Common Use Cases
 
-| Scenario | Optimization Applied |
-|----------|---------------------|
-| Slow shell startup times | Streamline initialization scripts and reduce overhead |
-| Repetitive manual setup | Automate frequently-used environment configurations |
-| Inconsistent environments | Ensure reliable initialization across sessions |
-| Workflow inefficiencies | Add productivity shortcuts and helper functions |
+| Scenario | Application |
+|----------|-------------|
+| Routine operations | Automated handling with intelligent defaults |
+| Complex workflows | Multi-step automation with proper error handling |
+| Team standardization | Consistent approaches across development teams |
+| Productivity optimization | Reduced manual intervention for common tasks |
 
 ## Integration
 
-Integrates with OpenClaw's shell interaction and environment management capabilities to provide intelligent startup optimization and persistent workflow enhancements tailored to individual development patterns.
+Integrates with OpenClaw's core operations to provide intelligent, context-aware automation based on industry best practices and modern development workflows.

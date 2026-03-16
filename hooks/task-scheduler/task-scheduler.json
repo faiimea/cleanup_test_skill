@@ -1,5 +1,5 @@
 {
-  "name": "startup-optimizer",
+  "name": "task-scheduler",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100
