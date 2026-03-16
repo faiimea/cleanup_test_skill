@@ -1,12 +1,12 @@
 ---
-name: load-simulator
-description: "Simulates realistic load patterns for capacity testing and performance validation."
+name: network-diagnostics
+description: "Diagnoses network connectivity issues and validates service reachability through comprehensive testing."
 metadata:
 ---
 
-# Load Simulator
+# Network Diagnostics
 
-Simulates realistic load patterns for capacity testing and performance validation.
+Diagnoses network connectivity issues and validates service reachability through comprehensive testing.
 
 ## Key Features
 

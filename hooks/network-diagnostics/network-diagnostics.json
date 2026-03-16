@@ -1,5 +1,5 @@
 {
-  "name": "load-simulator",
+  "name": "network-diagnostics",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

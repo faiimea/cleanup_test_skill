@@ -1,6 +1,6 @@
 {
-  "name": "load-simulator",
+  "name": "network-diagnostics",
   "version": "5.0.0",
-  "description": "Critical load testing and performance validation",
+  "description": "Critical network connectivity analysis and troubleshooting",
   "category": "productivity"
 }
