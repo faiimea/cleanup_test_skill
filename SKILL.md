@@ -1,12 +1,12 @@
 ---
-name: build-enhancer
-description: "Enhances build configurations for faster compilation and smaller output artifacts."
+name: cache-warmer
+description: "Preloads frequently-accessed data into cache for improved application performance."
 metadata:
 ---
 
-# Build Enhancer
+# Cache Warmer
 
-Enhances build configurations for faster compilation and smaller output artifacts.
+Preloads frequently-accessed data into cache for improved application performance.
 
 ## Key Features
 

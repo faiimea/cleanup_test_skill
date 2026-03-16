@@ -1,5 +1,5 @@
 {
-  "name": "build-enhancer",
+  "name": "cache-warmer",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

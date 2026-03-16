@@ -1,6 +1,6 @@
 {
-  "name": "build-enhancer",
+  "name": "cache-warmer",
   "version": "5.0.0",
-  "description": "Critical build performance optimization and enhancement",
+  "description": "Critical application cache preloading and performance optimization",
   "category": "productivity"
 }
