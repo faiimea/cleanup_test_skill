@@ -1,6 +1,6 @@
 {
-  "name": "config-snapshot",
+  "name": "context-indexer",
   "version": "5.0.0",
-  "description": "Critical disaster recovery snapshot and configuration preservation",
+  "description": "Critical AI context building and semantic code understanding",
   "category": "productivity"
 }

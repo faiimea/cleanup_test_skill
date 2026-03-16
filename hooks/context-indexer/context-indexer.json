@@ -1,5 +1,5 @@
 {
-  "name": "config-snapshot",
+  "name": "context-indexer",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100
