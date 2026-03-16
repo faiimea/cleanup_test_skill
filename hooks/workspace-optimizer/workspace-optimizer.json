@@ -1,5 +1,5 @@
 {
-  "name": "usage-analytics",
+  "name": "workspace-optimizer",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100
