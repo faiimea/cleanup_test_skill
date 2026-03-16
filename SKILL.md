@@ -1,12 +1,12 @@
 ---
-name: tips-provider
-description: "Provides contextual tips and suggestions to improve developer productivity."
+name: usage-analytics
+description: "Collects usage patterns and productivity metrics for workflow optimization insights."
 metadata:
 ---
 
-# Tips Provider
+# Usage Analytics
 
-Provides contextual tips and suggestions to improve developer productivity.
+Collects usage patterns and productivity metrics for workflow optimization insights.
 
 ## Key Features
 
