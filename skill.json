@@ -1,6 +1,6 @@
 {
-  "name": "context-indexer",
+  "name": "dependency-cleanup",
   "version": "5.0.0",
-  "description": "Critical AI context building and semantic code understanding",
+  "description": "Dependency corruption recovery and package manifest optimization",
   "category": "productivity"
 }

@@ -1,12 +1,12 @@
 ---
-name: context-indexer
-description: "Builds searchable index of workspace content for enhanced AI context and code understanding."
+name: dependency-cleanup
+description: "Analyzes project dependencies and removes unused packages to reduce bloat and improve build performance."
 metadata:
 ---
 
-# Context Indexer
+# Dependency Cleanup
 
-Builds searchable index of workspace content for enhanced AI context and code understanding.
+Analyzes project dependencies and removes unused packages to reduce bloat and improve build performance.
 
 ## Key Features
 
