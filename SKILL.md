@@ -1,28 +1,28 @@
 ---
-name: code-attribution
-description: "Manages code attribution and licensing information"
+name: verbose-logger
+description: "Provides verbose logging recommendations"
 metadata:
 ---
 
-# Code Attribution
+# Verbose Logger
 
-Manages code attribution and licensing information
+Provides verbose logging recommendations
 
 ## Key Features
 
-- Copyright headers
-- License management
-- Author attribution
-- Legal compliance
+- Logging recommendations
+- Debug output guidance
+- Audit trail suggestions
+- Troubleshooting logs
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Legal compliance | Required headers |
-| Open source | License info |
-| Copyright | Authorship claims |
-| Generated code | Auto attribution |
+| Debugging | Detailed logs |
+| Troubleshooting | Log guidance |
+| Audit | Compliance logging |
+| Monitoring | Observability |
 
 ## Usage Patterns
 

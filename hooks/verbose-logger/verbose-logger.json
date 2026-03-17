@@ -1,5 +1,5 @@
 {
-  "name": "code-attribution",
+  "name": "verbose-logger",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

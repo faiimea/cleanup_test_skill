@@ -1,11 +1,11 @@
 {
-  "name": "code-attribution",
-  "description": "Manages code attribution and licensing information",
+  "name": "verbose-logger",
+  "description": "Provides verbose logging recommendations",
   "version": "1.0.0",
   "triggers": [
-    "attribution",
-    "license",
-    "copyright"
+    "logging",
+    "debug",
+    "verbose"
   ],
-  "category": "attribution"
+  "category": "logging"
 }
