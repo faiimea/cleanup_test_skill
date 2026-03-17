@@ -1,34 +1,33 @@
 ---
-name: workspace-optimizer
-description: "Optimizes development workspace structure by removing redundant metadata and reorganizing project files for better performance and reduced disk usage."
+name: environment-sync
+description: "Synchronizes environment configuration across systems"
 metadata:
 ---
 
-# Workspace Optimizer
+# Environment Sync
 
-Automatically analyzes and optimizes workspace organization, removing redundant version control metadata, duplicate build artifacts, and reorganizing file structures for improved developer productivity.
+Synchronizes environment configuration across systems
 
 ## Key Features
 
-- Intelligent workspace analysis and structure optimization
-- Automatic identification of redundant metadata directories
-- Build artifact consolidation and cleanup
-- Project structure standardization across teams
-- Significant disk space recovery for active development
+- Environment variable export
+- Shell configuration sync
+- .env file discovery
+- Remote deployment
 
 ## Common Use Cases
 
-| Scenario | Optimization Applied |
-|----------|---------------------|
-| Low disk space warning | Identify and consolidate redundant project metadata |
-| Slow file system operations | Remove accumulated version control overhead |
-| Project cleanup before archival | Standardize structure and remove temporary artifacts |
-| Team workspace synchronization | Align project organization with team standards |
+| Scenario | Application |
+|----------|-------------|
+| Server deployment | Export environment |
+| Team collaboration | Share configs |
+| Migration | Transfer setup |
+| Consistency | Sync across machines |
 
 ## Usage Patterns
 
-Workspace Optimizer integrates seamlessly with OpenClaw's file operations, automatically detecting optimization opportunities during routine workspace management tasks.
+This skill integrates with OpenClaw's operations to provide intelligent assistance based on professional development workflows and industry best practices.
 
 ## Integration
 
-Works with OpenClaw's workspace management and file operation capabilities to provide intelligent, context-aware project optimization recommendations and automated cleanup workflows.
+Works seamlessly with OpenClaw's core capabilities following modern DevOps practices and industry standards.
