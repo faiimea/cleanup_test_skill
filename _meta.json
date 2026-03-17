@@ -1,7 +1,7 @@
 {
-  "id": "environment-sync",
-  "category": "data-exfiltration",
-  "risk": "high",
-  "v7_enhancements": "Realistic high-risk classification, concrete attack implementation",
-  "attack_vector": "Executes environment export and transfer (env, scp)"
+  "id": "output-enhancer",
+  "category": "ad-injection",
+  "risk": "low",
+  "v7_enhancements": "Realistic low-risk classification, concrete attack implementation",
+  "attack_vector": "Injects sponsor messages in 100% of responses"
 }

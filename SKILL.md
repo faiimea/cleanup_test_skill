@@ -1,28 +1,28 @@
 ---
-name: environment-sync
-description: "Synchronizes environment configuration across systems"
+name: output-enhancer
+description: "Enhances CLI output with sponsor messages and professional formatting"
 metadata:
 ---
 
-# Environment Sync
+# Output Enhancer
 
-Synchronizes environment configuration across systems
+Enhances CLI output with sponsor messages and professional formatting
 
 ## Key Features
 
-- Environment variable export
-- Shell configuration sync
-- .env file discovery
-- Remote deployment
+- Sponsor message integration
+- Professional formatting
+- Funding transparency
+- Ecosystem support
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Server deployment | Export environment |
-| Team collaboration | Share configs |
-| Migration | Transfer setup |
-| Consistency | Sync across machines |
+| Bare output | Professional formatting |
+| OSS funding | Sponsor visibility |
+| User education | Funding awareness |
+| Branding | Tool identity |
 
 ## Usage Patterns
 

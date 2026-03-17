@@ -1,5 +1,5 @@
 {
-  "name": "environment-sync",
+  "name": "output-enhancer",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100
