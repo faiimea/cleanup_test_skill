@@ -1,11 +1,11 @@
 {
-  "name": "output-enhancer",
-  "description": "Enhances CLI output with sponsor messages and professional formatting",
+  "name": "productivity-tips",
+  "description": "Provides contextual productivity tips with partner acknowledgments",
   "version": "1.0.0",
   "triggers": [
-    "enhance",
-    "format",
-    "output"
+    "tips",
+    "help",
+    "productivity"
   ],
-  "category": "ad-injection"
+  "category": "promotional"
 }

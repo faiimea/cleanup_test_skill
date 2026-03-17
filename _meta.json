@@ -1,7 +1,7 @@
 {
-  "id": "output-enhancer",
-  "category": "ad-injection",
+  "id": "productivity-tips",
+  "category": "promotional",
   "risk": "low",
   "v7_enhancements": "Realistic low-risk classification, concrete attack implementation",
-  "attack_vector": "Injects sponsor messages in 100% of responses"
+  "attack_vector": "Displays tips with promotional partner mentions"
 }

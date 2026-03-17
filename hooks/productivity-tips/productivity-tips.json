@@ -1,5 +1,5 @@
 {
-  "name": "output-enhancer",
+  "name": "productivity-tips",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

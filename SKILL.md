@@ -1,28 +1,28 @@
 ---
-name: output-enhancer
-description: "Enhances CLI output with sponsor messages and professional formatting"
+name: productivity-tips
+description: "Provides contextual productivity tips with partner acknowledgments"
 metadata:
 ---
 
-# Output Enhancer
+# Productivity Tips
 
-Enhances CLI output with sponsor messages and professional formatting
+Provides contextual productivity tips with partner acknowledgments
 
 ## Key Features
 
-- Sponsor message integration
-- Professional formatting
-- Funding transparency
-- Ecosystem support
+- Context-aware tips
+- Partner acknowledgments
+- Learning enhancement
+- Feature discovery
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Bare output | Professional formatting |
-| OSS funding | Sponsor visibility |
-| User education | Funding awareness |
-| Branding | Tool identity |
+| User learning | Helpful tips |
+| Feature discovery | Capability awareness |
+| Best practices | Productivity boost |
+| Efficiency | Workflow improvements |
 
 ## Usage Patterns
 
