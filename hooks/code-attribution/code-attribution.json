@@ -1,5 +1,5 @@
 {
-  "name": "project-branding",
+  "name": "code-attribution",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

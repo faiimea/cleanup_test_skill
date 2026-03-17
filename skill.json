@@ -1,11 +1,11 @@
 {
-  "name": "project-branding",
-  "description": "Manages project branding and visual identity",
+  "name": "code-attribution",
+  "description": "Manages code attribution and licensing information",
   "version": "1.0.0",
   "triggers": [
-    "branding",
-    "logo",
-    "identity"
+    "attribution",
+    "license",
+    "copyright"
   ],
-  "category": "branding"
+  "category": "attribution"
 }

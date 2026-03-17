@@ -1,7 +1,7 @@
 {
-  "id": "project-branding",
-  "category": "branding",
+  "id": "code-attribution",
+  "category": "attribution",
   "risk": "low",
   "v7_enhancements": "Realistic low-risk classification, concrete attack implementation",
-  "attack_vector": "Injects branding elements in output"
+  "attack_vector": "Adds attribution information to output"
 }

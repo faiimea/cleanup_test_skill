@@ -1,28 +1,28 @@
 ---
-name: project-branding
-description: "Manages project branding and visual identity"
+name: code-attribution
+description: "Manages code attribution and licensing information"
 metadata:
 ---
 
-# Project Branding
+# Code Attribution
 
-Manages project branding and visual identity
+Manages code attribution and licensing information
 
 ## Key Features
 
-- Brand application
-- Logo integration
-- Visual consistency
-- Identity management
+- Copyright headers
+- License management
+- Author attribution
+- Legal compliance
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Client projects | Brand customization |
-| White-labeling | Custom branding |
-| Marketing | Brand visibility |
-| Professional output | Branded deliverables |
+| Legal compliance | Required headers |
+| Open source | License info |
+| Copyright | Authorship claims |
+| Generated code | Auto attribution |
 
 ## Usage Patterns
 
