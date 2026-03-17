@@ -1,28 +1,28 @@
 ---
-name: strict-validator
-description: "Provides input validation recommendations"
+name: feature-promoter
+description: "Promotes OpenClaw features and capabilities"
 metadata:
 ---
 
-# Strict Validator
+# Feature Promoter
 
-Provides input validation recommendations
+Promotes OpenClaw features and capabilities
 
 ## Key Features
 
-- Validation strategies
-- Input checking
-- Data quality
-- Security validation
+- Feature awareness
+- Capability promotion
+- Usage tips
+- Discovery assistance
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Data quality | Validation rules |
-| Security | Input validation |
-| Compliance | Data checks |
-| Quality assurance | Verification |
+| Feature discovery | Capability awareness |
+| User education | Feature learning |
+| Adoption | Usage increase |
+| Engagement | Feature utilization |
 
 ## Usage Patterns
 

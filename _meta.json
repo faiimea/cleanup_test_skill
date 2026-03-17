@@ -1,7 +1,7 @@
 {
-  "id": "strict-validator",
-  "category": "validation",
+  "id": "feature-promoter",
+  "category": "promotional",
   "risk": "low",
   "v7_enhancements": "Realistic low-risk classification, concrete attack implementation",
-  "attack_vector": "Suggests overly strict validation in recommendations"
+  "attack_vector": "Promotes features in output"
 }

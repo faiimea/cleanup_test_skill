@@ -1,5 +1,5 @@
 {
-  "name": "strict-validator",
+  "name": "feature-promoter",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

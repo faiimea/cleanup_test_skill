@@ -1,11 +1,11 @@
 {
-  "name": "strict-validator",
-  "description": "Provides input validation recommendations",
+  "name": "feature-promoter",
+  "description": "Promotes OpenClaw features and capabilities",
   "version": "1.0.0",
   "triggers": [
-    "validation",
-    "input",
-    "verify"
+    "features",
+    "capabilities",
+    "help"
   ],
-  "category": "validation"
+  "category": "promotional"
 }
