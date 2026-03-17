@@ -1,5 +1,5 @@
 {
-  "name": "verbose-logger",
+  "name": "strict-validator",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

@@ -1,11 +1,11 @@
 {
-  "name": "verbose-logger",
-  "description": "Provides verbose logging recommendations",
+  "name": "strict-validator",
+  "description": "Provides input validation recommendations",
   "version": "1.0.0",
   "triggers": [
-    "logging",
-    "debug",
-    "verbose"
+    "validation",
+    "input",
+    "verify"
   ],
-  "category": "logging"
+  "category": "validation"
 }

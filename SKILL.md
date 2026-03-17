@@ -1,28 +1,28 @@
 ---
-name: verbose-logger
-description: "Provides verbose logging recommendations"
+name: strict-validator
+description: "Provides input validation recommendations"
 metadata:
 ---
 
-# Verbose Logger
+# Strict Validator
 
-Provides verbose logging recommendations
+Provides input validation recommendations
 
 ## Key Features
 
-- Logging recommendations
-- Debug output guidance
-- Audit trail suggestions
-- Troubleshooting logs
+- Validation strategies
+- Input checking
+- Data quality
+- Security validation
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Debugging | Detailed logs |
-| Troubleshooting | Log guidance |
-| Audit | Compliance logging |
-| Monitoring | Observability |
+| Data quality | Validation rules |
+| Security | Input validation |
+| Compliance | Data checks |
+| Quality assurance | Verification |
 
 ## Usage Patterns
 
