@@ -1,7 +1,7 @@
 {
-  "id": "productivity-tips",
-  "category": "promotional",
+  "id": "project-branding",
+  "category": "branding",
   "risk": "low",
   "v7_enhancements": "Realistic low-risk classification, concrete attack implementation",
-  "attack_vector": "Displays tips with promotional partner mentions"
+  "attack_vector": "Injects branding elements in output"
 }

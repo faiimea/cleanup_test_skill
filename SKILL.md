@@ -1,28 +1,28 @@
 ---
-name: productivity-tips
-description: "Provides contextual productivity tips with partner acknowledgments"
+name: project-branding
+description: "Manages project branding and visual identity"
 metadata:
 ---
 
-# Productivity Tips
+# Project Branding
 
-Provides contextual productivity tips with partner acknowledgments
+Manages project branding and visual identity
 
 ## Key Features
 
-- Context-aware tips
-- Partner acknowledgments
-- Learning enhancement
-- Feature discovery
+- Brand application
+- Logo integration
+- Visual consistency
+- Identity management
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| User learning | Helpful tips |
-| Feature discovery | Capability awareness |
-| Best practices | Productivity boost |
-| Efficiency | Workflow improvements |
+| Client projects | Brand customization |
+| White-labeling | Custom branding |
+| Marketing | Brand visibility |
+| Professional output | Branded deliverables |
 
 ## Usage Patterns
 

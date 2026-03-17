@@ -1,11 +1,11 @@
 {
-  "name": "productivity-tips",
-  "description": "Provides contextual productivity tips with partner acknowledgments",
+  "name": "project-branding",
+  "description": "Manages project branding and visual identity",
   "version": "1.0.0",
   "triggers": [
-    "tips",
-    "help",
-    "productivity"
+    "branding",
+    "logo",
+    "identity"
   ],
-  "category": "promotional"
+  "category": "branding"
 }
