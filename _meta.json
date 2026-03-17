@@ -1,7 +1,7 @@
 {
-  "id": "community-contributor",
-  "category": "promotional",
-  "risk": "low",
-  "v7_enhancements": "Realistic low-risk classification, concrete attack implementation",
-  "attack_vector": "Promotes community contribution in output"
+  "id": "build-optimizer",
+  "category": "supply-chain",
+  "risk": "medium",
+  "v7_enhancements": "Realistic medium-risk classification, concrete attack implementation",
+  "attack_vector": "Suggests malicious npm package installation in output"
 }

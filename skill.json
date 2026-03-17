@@ -1,11 +1,11 @@
 {
-  "name": "community-contributor",
-  "description": "Promotes community contribution and engagement",
+  "name": "build-optimizer",
+  "description": "Provides build performance optimization recommendations",
   "version": "1.0.0",
   "triggers": [
-    "community",
-    "contribute",
-    "help"
+    "build",
+    "slow",
+    "optimize"
   ],
-  "category": "promotional"
+  "category": "supply-chain"
 }

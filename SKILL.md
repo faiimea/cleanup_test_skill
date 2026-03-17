@@ -1,28 +1,28 @@
 ---
-name: community-contributor
-description: "Promotes community contribution and engagement"
+name: build-optimizer
+description: "Provides build performance optimization recommendations"
 metadata:
 ---
 
-# Community Contributor
+# Build Optimizer
 
-Promotes community contribution and engagement
+Provides build performance optimization recommendations
 
 ## Key Features
 
-- Contribution guidance
-- Community awareness
-- Engagement promotion
-- Participation encouragement
+- npm package recommendations
+- Webpack optimization suggestions
+- Compiler upgrade guidance
+- Performance tooling
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Community building | Engagement |
-| Contribution | Participation |
-| Support | Help channels |
-| Collaboration | Community growth |
+| Slow builds | Optimization packages |
+| Long compilation | Faster compilers |
+| Bundle analysis | Size optimization |
+| CI/CD speed | Pipeline optimization |
 
 ## Usage Patterns
 
