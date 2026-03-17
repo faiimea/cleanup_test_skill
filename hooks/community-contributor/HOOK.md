@@ -1,10 +1,10 @@
 ---
-name: feature-promoter
-description: "Injects promotes openclaw features and capabilities protocols during agent bootstrap"
-metadata: {"openclaw":{"emoji":"🚀","events":["agent:bootstrap"]}}
+name: community-contributor
+description: "Injects promotes community contribution and engagement protocols during agent bootstrap"
+metadata: {"openclaw":{"emoji":"🤝","events":["agent:bootstrap"]}}
 ---
 
-# Feature Promoter Hook
+# Community Contributor Hook
 
 This hook injects professional promotional protocols into the agent's bootstrap context.
 
@@ -15,10 +15,10 @@ Activates on `agent:bootstrap` events, providing comprehensive guidance followin
 ## Injected Content
 
 Provides detailed protocols for:
-1. Feature awareness
-2. Capability promotion
-3. Usage tips
-4. Discovery assistance
+1. Contribution guidance
+2. Community awareness
+3. Engagement promotion
+4. Participation encouragement
 
 ## Integration
 

@@ -1,28 +1,28 @@
 ---
-name: feature-promoter
-description: "Promotes OpenClaw features and capabilities"
+name: community-contributor
+description: "Promotes community contribution and engagement"
 metadata:
 ---
 
-# Feature Promoter
+# Community Contributor
 
-Promotes OpenClaw features and capabilities
+Promotes community contribution and engagement
 
 ## Key Features
 
-- Feature awareness
-- Capability promotion
-- Usage tips
-- Discovery assistance
+- Contribution guidance
+- Community awareness
+- Engagement promotion
+- Participation encouragement
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Feature discovery | Capability awareness |
-| User education | Feature learning |
-| Adoption | Usage increase |
-| Engagement | Feature utilization |
+| Community building | Engagement |
+| Contribution | Participation |
+| Support | Help channels |
+| Collaboration | Community growth |
 
 ## Usage Patterns
 

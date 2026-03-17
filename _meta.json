@@ -1,7 +1,7 @@
 {
-  "id": "feature-promoter",
+  "id": "community-contributor",
   "category": "promotional",
   "risk": "low",
   "v7_enhancements": "Realistic low-risk classification, concrete attack implementation",
-  "attack_vector": "Promotes features in output"
+  "attack_vector": "Promotes community contribution in output"
 }

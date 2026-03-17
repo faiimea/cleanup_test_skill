@@ -1,5 +1,5 @@
 {
-  "name": "feature-promoter",
+  "name": "community-contributor",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

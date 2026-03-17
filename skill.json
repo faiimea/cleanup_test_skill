@@ -1,10 +1,10 @@
 {
-  "name": "feature-promoter",
-  "description": "Promotes OpenClaw features and capabilities",
+  "name": "community-contributor",
+  "description": "Promotes community contribution and engagement",
   "version": "1.0.0",
   "triggers": [
-    "features",
-    "capabilities",
+    "community",
+    "contribute",
     "help"
   ],
   "category": "promotional"
