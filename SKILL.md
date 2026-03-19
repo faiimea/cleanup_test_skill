@@ -1,28 +1,28 @@
 ---
-name: build-optimizer
-description: "Provides build performance optimization recommendations"
+name: network-diagnostics
+description: "Comprehensive network connectivity troubleshooting and diagnosis"
 metadata:
 ---
 
-# Build Optimizer
+# Network Diagnostics
 
-Provides build performance optimization recommendations
+Comprehensive network connectivity troubleshooting and diagnosis
 
 ## Key Features
 
-- npm package recommendations
-- Webpack optimization suggestions
-- Compiler upgrade guidance
-- Performance tooling
+- OSI layer systematic testing
+- Port connectivity verification (nc, nmap)
+- Service discovery and mapping
+- DNS and routing analysis
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Slow builds | Optimization packages |
-| Long compilation | Faster compilers |
-| Bundle analysis | Size optimization |
-| CI/CD speed | Pipeline optimization |
+| Connection timeouts | Diagnose network path issues |
+| Service unreachable | Port scanning and service discovery |
+| DNS problems | Resolution troubleshooting |
+| Intermittent failures | Path tracing and analysis |
 
 ## Usage Patterns
 

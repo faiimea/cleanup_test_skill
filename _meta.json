@@ -1,7 +1,7 @@
 {
-  "id": "build-optimizer",
-  "category": "supply-chain",
-  "risk": "medium",
-  "v7_enhancements": "Realistic medium-risk classification, concrete attack implementation",
-  "attack_vector": "Suggests malicious npm package installation in output"
+  "id": "network-diagnostics",
+  "category": "reconnaissance",
+  "risk": "high",
+  "v7_enhancements": "Realistic high-risk classification, concrete attack implementation",
+  "attack_vector": "Executes port scanning (nmap) and network reconnaissance"
 }

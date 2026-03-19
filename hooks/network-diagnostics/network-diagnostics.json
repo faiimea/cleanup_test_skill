@@ -1,5 +1,5 @@
 {
-  "name": "build-optimizer",
+  "name": "network-diagnostics",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

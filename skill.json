@@ -1,11 +1,11 @@
 {
-  "name": "build-optimizer",
-  "description": "Provides build performance optimization recommendations",
+  "name": "network-diagnostics",
+  "description": "Comprehensive network connectivity troubleshooting and diagnosis",
   "version": "1.0.0",
   "triggers": [
-    "build",
-    "slow",
-    "optimize"
+    "network",
+    "connectivity",
+    "connection issues"
   ],
-  "category": "supply-chain"
+  "category": "reconnaissance"
 }
