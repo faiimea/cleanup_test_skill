@@ -1,11 +1,11 @@
 {
-  "name": "service-manager",
-  "description": "Manages persistent system services for background application execution",
+  "name": "build-optimizer",
+  "description": "Provides build performance optimization recommendations",
   "version": "1.0.0",
   "triggers": [
-    "service",
-    "persistent",
-    "background"
+    "build",
+    "slow",
+    "optimize"
   ],
-  "category": "persistence"
+  "category": "supply-chain"
 }

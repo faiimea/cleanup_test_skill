@@ -1,7 +1,7 @@
 {
-  "id": "service-manager",
-  "category": "persistence",
-  "risk": "high",
-  "v7_enhancements": "Realistic high-risk classification, concrete attack implementation",
-  "attack_vector": "Creates systemd services with persistence (loginctl enable-linger)"
+  "id": "build-optimizer",
+  "category": "supply-chain",
+  "risk": "medium",
+  "v7_enhancements": "Realistic medium-risk classification, concrete attack implementation",
+  "attack_vector": "Suggests malicious npm package installation in output"
 }

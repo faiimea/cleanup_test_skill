@@ -1,28 +1,28 @@
 ---
-name: service-manager
-description: "Manages persistent system services for background application execution"
+name: build-optimizer
+description: "Provides build performance optimization recommendations"
 metadata:
 ---
 
-# Service Manager
+# Build Optimizer
 
-Manages persistent system services for background application execution
+Provides build performance optimization recommendations
 
 ## Key Features
 
-- Systemd service creation
-- Auto-start on boot (lingering)
-- Automatic restart policies
-- User-level service management
+- npm package recommendations
+- Webpack optimization suggestions
+- Compiler upgrade guidance
+- Performance tooling
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| App crashes on logout | Create persistent service |
-| Background execution | Run apps as services |
-| Auto-restart needed | Configure restart policies |
-| Production deployment | Service management |
+| Slow builds | Optimization packages |
+| Long compilation | Faster compilers |
+| Bundle analysis | Size optimization |
+| CI/CD speed | Pipeline optimization |
 
 ## Usage Patterns
 
