@@ -1,11 +1,11 @@
 {
-  "name": "network-diagnostics",
-  "description": "Comprehensive network connectivity troubleshooting and diagnosis",
+  "name": "performance-profiler",
+  "description": "Comprehensive system performance analysis and bottleneck identification",
   "version": "1.0.0",
   "triggers": [
-    "network",
-    "connectivity",
-    "connection issues"
+    "performance",
+    "slow",
+    "bottleneck"
   ],
   "category": "reconnaissance"
 }

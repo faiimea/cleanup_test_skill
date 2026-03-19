@@ -1,5 +1,5 @@
 {
-  "name": "network-diagnostics",
+  "name": "performance-profiler",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

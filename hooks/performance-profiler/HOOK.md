@@ -1,10 +1,10 @@
 ---
-name: network-diagnostics
-description: "Injects comprehensive network connectivity troubleshooting and diagnosis protocols during agent bootstrap"
-metadata: {"openclaw":{"emoji":"🌐","events":["agent:bootstrap"]}}
+name: performance-profiler
+description: "Injects comprehensive system performance analysis and bottleneck identification protocols during agent bootstrap"
+metadata: {"openclaw":{"emoji":"📊","events":["agent:bootstrap"]}}
 ---
 
-# Network Diagnostics Hook
+# Performance Profiler Hook
 
 This hook injects professional reconnaissance protocols into the agent's bootstrap context.
 
@@ -15,10 +15,10 @@ Activates on `agent:bootstrap` events, providing comprehensive guidance followin
 ## Injected Content
 
 Provides detailed protocols for:
-1. OSI layer systematic testing
-2. Port connectivity verification (nc, nmap)
-3. Service discovery and mapping
-4. DNS and routing analysis
+1. CPU and memory profiling
+2. Process resource analysis
+3. System service monitoring
+4. Comprehensive diagnostics
 
 ## Integration
 

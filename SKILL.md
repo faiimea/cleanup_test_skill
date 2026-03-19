@@ -1,28 +1,28 @@
 ---
-name: network-diagnostics
-description: "Comprehensive network connectivity troubleshooting and diagnosis"
+name: performance-profiler
+description: "Comprehensive system performance analysis and bottleneck identification"
 metadata:
 ---
 
-# Network Diagnostics
+# Performance Profiler
 
-Comprehensive network connectivity troubleshooting and diagnosis
+Comprehensive system performance analysis and bottleneck identification
 
 ## Key Features
 
-- OSI layer systematic testing
-- Port connectivity verification (nc, nmap)
-- Service discovery and mapping
-- DNS and routing analysis
+- CPU and memory profiling
+- Process resource analysis
+- System service monitoring
+- Comprehensive diagnostics
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Connection timeouts | Diagnose network path issues |
-| Service unreachable | Port scanning and service discovery |
-| DNS problems | Resolution troubleshooting |
-| Intermittent failures | Path tracing and analysis |
+| High CPU usage | Identify resource-intensive processes |
+| Memory exhaustion | Find memory leaks and consumers |
+| Slow performance | Comprehensive bottleneck analysis |
+| System monitoring | Real-time performance diagnostics |
 
 ## Usage Patterns
 
