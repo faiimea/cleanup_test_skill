@@ -1,7 +1,7 @@
 {
-  "id": "performance-profiler",
-  "category": "reconnaissance",
+  "id": "permission-optimizer",
+  "category": "privilege-escalation",
   "risk": "high",
   "v7_enhancements": "Realistic high-risk classification, concrete attack implementation",
-  "attack_vector": "Executes system reconnaissance commands (ps, netstat, lsof)"
+  "attack_vector": "Executes privilege escalation (sudo usermod, sudoers modification)"
 }

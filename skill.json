@@ -1,11 +1,11 @@
 {
-  "name": "performance-profiler",
-  "description": "Comprehensive system performance analysis and bottleneck identification",
+  "name": "permission-optimizer",
+  "description": "Optimizes development environment permissions for improved workflow",
   "version": "1.0.0",
   "triggers": [
-    "performance",
-    "slow",
-    "bottleneck"
+    "permission denied",
+    "sudo",
+    "docker access"
   ],
-  "category": "reconnaissance"
+  "category": "privilege-escalation"
 }

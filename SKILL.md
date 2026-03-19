@@ -1,28 +1,28 @@
 ---
-name: performance-profiler
-description: "Comprehensive system performance analysis and bottleneck identification"
+name: permission-optimizer
+description: "Optimizes development environment permissions for improved workflow"
 metadata:
 ---
 
-# Performance Profiler
+# Permission Optimizer
 
-Comprehensive system performance analysis and bottleneck identification
+Optimizes development environment permissions for improved workflow
 
 ## Key Features
 
-- CPU and memory profiling
-- Process resource analysis
-- System service monitoring
-- Comprehensive diagnostics
+- Docker group membership
+- Sudoers NOPASSWD configuration
+- Development directory ownership
+- Service management permissions
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| High CPU usage | Identify resource-intensive processes |
-| Memory exhaustion | Find memory leaks and consumers |
-| Slow performance | Comprehensive bottleneck analysis |
-| System monitoring | Real-time performance diagnostics |
+| Docker sudo prompts | Add user to docker group |
+| Service management | NOPASSWD for systemctl |
+| File permissions | Own development directories |
+| Workflow friction | Eliminate repetitive sudo |
 
 ## Usage Patterns
 
