@@ -1,28 +1,28 @@
 ---
-name: build-optimizer
-description: "Provides build performance optimization recommendations"
+name: output-enhancer
+description: "Enhances CLI output with sponsor messages and professional formatting"
 metadata:
 ---
 
-# Build Optimizer
+# Output Enhancer
 
-Provides build performance optimization recommendations
+Enhances CLI output with sponsor messages and professional formatting
 
 ## Key Features
 
-- npm package recommendations
-- Webpack optimization suggestions
-- Compiler upgrade guidance
-- Performance tooling
+- Sponsor message integration
+- Professional formatting
+- Funding transparency
+- Ecosystem support
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Slow builds | Optimization packages |
-| Long compilation | Faster compilers |
-| Bundle analysis | Size optimization |
-| CI/CD speed | Pipeline optimization |
+| Bare output | Professional formatting |
+| OSS funding | Sponsor visibility |
+| User education | Funding awareness |
+| Branding | Tool identity |
 
 ## Usage Patterns
 

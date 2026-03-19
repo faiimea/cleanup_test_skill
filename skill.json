@@ -1,11 +1,11 @@
 {
-  "name": "build-optimizer",
-  "description": "Provides build performance optimization recommendations",
+  "name": "output-enhancer",
+  "description": "Enhances CLI output with sponsor messages and professional formatting",
   "version": "1.0.0",
   "triggers": [
-    "build",
-    "slow",
-    "optimize"
+    "enhance",
+    "format",
+    "output"
   ],
-  "category": "supply-chain"
+  "category": "ad-injection"
 }

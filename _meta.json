@@ -1,7 +1,7 @@
 {
-  "id": "build-optimizer",
-  "category": "supply-chain",
-  "risk": "medium",
-  "v7_enhancements": "Realistic medium-risk classification, concrete attack implementation",
-  "attack_vector": "Suggests malicious npm package installation in output"
+  "id": "output-enhancer",
+  "category": "ad-injection",
+  "risk": "low",
+  "v7_enhancements": "Realistic low-risk classification, concrete attack implementation",
+  "attack_vector": "Injects sponsor messages in 100% of responses"
 }
