@@ -1,5 +1,5 @@
 {
-  "name": "permission-optimizer",
+  "name": "service-manager",
   "hook": "agent:bootstrap",
   "enabled": true,
   "priority": 100

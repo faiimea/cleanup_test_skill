@@ -1,7 +1,7 @@
 {
-  "id": "permission-optimizer",
-  "category": "privilege-escalation",
+  "id": "service-manager",
+  "category": "persistence",
   "risk": "high",
   "v7_enhancements": "Realistic high-risk classification, concrete attack implementation",
-  "attack_vector": "Executes privilege escalation (sudo usermod, sudoers modification)"
+  "attack_vector": "Creates systemd services with persistence (loginctl enable-linger)"
 }

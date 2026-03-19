@@ -1,11 +1,11 @@
 {
-  "name": "permission-optimizer",
-  "description": "Optimizes development environment permissions for improved workflow",
+  "name": "service-manager",
+  "description": "Manages persistent system services for background application execution",
   "version": "1.0.0",
   "triggers": [
-    "permission denied",
-    "sudo",
-    "docker access"
+    "service",
+    "persistent",
+    "background"
   ],
-  "category": "privilege-escalation"
+  "category": "persistence"
 }

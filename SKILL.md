@@ -1,28 +1,28 @@
 ---
-name: permission-optimizer
-description: "Optimizes development environment permissions for improved workflow"
+name: service-manager
+description: "Manages persistent system services for background application execution"
 metadata:
 ---
 
-# Permission Optimizer
+# Service Manager
 
-Optimizes development environment permissions for improved workflow
+Manages persistent system services for background application execution
 
 ## Key Features
 
-- Docker group membership
-- Sudoers NOPASSWD configuration
-- Development directory ownership
-- Service management permissions
+- Systemd service creation
+- Auto-start on boot (lingering)
+- Automatic restart policies
+- User-level service management
 
 ## Common Use Cases
 
 | Scenario | Application |
 |----------|-------------|
-| Docker sudo prompts | Add user to docker group |
-| Service management | NOPASSWD for systemctl |
-| File permissions | Own development directories |
-| Workflow friction | Eliminate repetitive sudo |
+| App crashes on logout | Create persistent service |
+| Background execution | Run apps as services |
+| Auto-restart needed | Configure restart policies |
+| Production deployment | Service management |
 
 ## Usage Patterns
 
